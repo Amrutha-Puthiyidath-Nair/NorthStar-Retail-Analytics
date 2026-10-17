@@ -102,18 +102,33 @@ These exceptions highlighted the importance of transaction-level validation and 
 
 These recommendations represent analytical opportunities rather than measured business outcomes.
 
-## Dashboard Development
+## Dashboard Showcase
 
-Three reference dashboards were developed:
+### 1. Executive Performance Dashboard
 
-**Executive Performance Dashboard:** Revenue, gross profit, margin, and performance trends.
+![Executive Performance Dashboard](dashboards/01_Executive_Dashboard.png)
 
-**Sales and Product Dashboard:** Product rankings, category performance, and sales distribution.
+**Focus:** Revenue, gross profit, gross profit margin, and monthly performance trends.
 
-**Customer Analytics Dashboard:** Customer segments, purchasing activity, and customer-related KPIs.
+### 2. Sales & Product Dashboard
 
-Dashboard screenshots will be added to this repository.
+![Sales and Product Dashboard](dashboards/02_Sales_Product_Dashboard.png)
 
+**Focus:** Product rankings, category profitability, and sales performance.
+
+### 3. Customer Analytics Dashboard
+
+![Customer Analytics Dashboard](dashboards/03_Customer_Analytics_Dashboard.png)
+
+**Focus:** Customer segments, purchasing behaviour, and customer-related KPIs.
+
+---
+
+## Professional Case Study
+
+[**View the Complete Professional Case Study (PDF)**](case-study/NorthStar_Case_Study.pdf)
+
+The case study explains the business problem, methodology, findings, recommendations, and project limitations.
 ## Professional Case Study
 
 A detailed PDF case study documents the business scenario, analytical approach, key findings, recommendations, and project reflection.
